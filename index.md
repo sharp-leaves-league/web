@@ -1,5 +1,7 @@
 ---
 title: Test
+seo:
+  name: Fufu
 ---
 ## Welcome to GitHub Pages
 
