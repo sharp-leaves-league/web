@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Sharp Leaves League Liberec
 description: Oficiální Pokémon liga v Liberci
+lang: cs_CZ
 show_downloads: false
 github:
   is_project_page: false
