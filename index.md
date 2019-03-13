@@ -56,7 +56,7 @@ V cyklu *Unova 2* navíc hráč, který je plně registrovaný na webu [pokemon.
 Odznak             | Stadion    | Od         | Speciální pravidlo
 -------------------|------------|------------|---------------------------------------------
 ![Basic Badge][1]  | Aspertia   | 12.2.2019  | *20-20-20* - balíček musí mít 20 Pokémonů, 20 Trainerů a 20 energií
-![Toxic Badge][2]  | Virbank    | 19.3.2019  | *Full House* - v balíčku musí být každý Pokémon, kterého chceš hrát, čtyřikrát (můžou to být různé verze)
+![Toxic Badge][2]  | Virbank    | 19.3.2019  | *Full House* - v balíčku musí být každý Pokémon, kterého chceš hrát, čtyřikrát (můžou to být různé verze, rozhoduje název karty, Prism Star ⟐ se tedy hrát nemohou)
 ![Insect Badge][3] | Castelia   | duben?     | 
 ![Bolt Badge][4]   | Nimbasa    | květen?    | 
 ![Quake Badge][5]  | Driftveil  |            | 
