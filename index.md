@@ -31,8 +31,8 @@ Na oficiální turnaje se můžeš přihlásit kdykoliv, doporučujeme však př
 Nezapomeň, že všechny oficiální turnaje mají omezení na konkrétní formát a jsou na nich *povinné decklisty* (seznam karet tvého balíčku). Na většinu turnajů je také povinná registrace, pokud se chceš zúčastnit některého turnaje (mimo úterní), mrkni na Facebook nebo pošli email na <liberec@pokemontcg.cz>.
 
 * 23.3.2019 10:00 [*Březnový League Challenge*](https://www.facebook.com/events/291704648176907/), formát Standard, vstupné 30 Kč
-* 6.4.2019 10:00 [*Sun & Moon — Team Up League Cup* a *Dubnový League Challenge*](https://www.facebook.com/events/153420155575292/), formát Standard, vstupné 200 Kč (pouze Challenge za 30 Kč)
-* v druhé polovině dubna očekáváme *Pokémon Unbroken Bonds Prerelease*
+* 6.4.2019 10:00 [*Sun & Moon — Team Up League Cup* a *Dubnový League Challenge*](https://www.facebook.com/events/153420155575292/), formát Standard, vstupné 200 Kč (pouze Challenge za 30 Kč)
+* v druhé polovině dubna očekáváme *Sun & Moon — Unbroken Bonds Prerelease*
 
 ## Stadionové zápasy
 
