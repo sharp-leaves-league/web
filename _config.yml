@@ -2,3 +2,10 @@ theme: jekyll-theme-slate
 title: Sharp Leaves League Liberec
 subtitle: Oficiální Pokémon liga v Liberci
 lang: cs_CZ
+facebook:
+  publisher: https://www.facebook.com/league.liberec/
+social:
+  name: Sharp Leaves League Liberec
+  links:
+    - https://www.facebook.com/league.liberec/
+    - https://m.me/league.liberec/
