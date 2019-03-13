@@ -38,7 +38,7 @@ Nezapomeň, že všechny oficiální turnaje mají omezení na konkrétní form�
 
 Stadionové zápasy jsou dlouhodobé bodované zápasy hráčů proti speciálním balíčkům vedoucí ligy. Momentálně hrajeme ligu *Unova 2* (podle her Black & White 2). Pokud vyzyvatel stadionový zápas vyhraje, dostane tolik bodů do průběžného bodování, kolik odměn soupeři na konci hry zbylo. Pokud prohraje, může zápas opakovat tak dlouho, než vyhraje. Na konci každého cyklu (vždy 8 her na 8 stadionech) dochází k vyhlášení vítěze, který dostává cenu v podobě boosteru apod.
 
-V cyklu *Unova 2* navíc hráč, který je plně registrovaný na webu <pokemon.com> a má své Play! ID propojené s tímto účtem, dostane krásnou *krabičku na odznaky* a za každý vyhraný stadionový zápas dostane patřičný *odznak*, stejně jako Ash v seriálu.
+V cyklu *Unova 2* navíc hráč, který je plně registrovaný na webu [pokemon.com](https://www.pokemon.com/uk/) a má své Play! ID propojené s tímto účtem, dostane krásnou *krabičku na odznaky* a za každý vyhraný stadionový zápas dostane patřičný *odznak*, stejně jako Ash v seriálu.
 
 ##### Všeobecná pravidla stadionových zápasů
 * formát *Expanded* (Black & White a novější)
