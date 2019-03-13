@@ -1,6 +1,7 @@
 ---
 
-title: Oficiální Pokémon liga v Liberci
+_title: Oficiální Pokémon liga v Liberci
+description: Test
 
 ---
 
