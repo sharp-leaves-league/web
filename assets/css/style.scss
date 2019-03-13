@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+td, th {
+  vertical-align: middle;
+  
+  img {
+    margin: 0 auto;
+  }
+}
