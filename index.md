@@ -25,6 +25,10 @@ Výjimečně se může v době ligy konat v ceně vstupného také oficiální t
 
 To vůbec nevadí, na lize máme několik výukových balíčků pro úplné začátečníky, stačí se v herně zastavit v době ligy.
 
+### Pořád nevím všechno
+
+Pokud tě zajímá cokoliv dalšího, mrkni na [náš facebook](https://www.facebook.com/league.liberec) nebo napiš [přes Messenger](http://m.me/league.liberec) nebo na email <liberec@pokemontcg.cz>.
+
 ## Oficiální turnaje
 
 Na oficiální turnaje se můžeš přihlásit kdykoliv, doporučujeme však před turnajem alespoň jednu návštěvu ligy. Oficiální turnaje jsou bodované a tím pádem musíš dodržovat [formální turnajová pravidla](https://www.pokemon.com/uk/play-pokemon/about/tournaments-rules-and-resources/). Měl bys tedy mít alespoň trochu informací o tom, jak to na turnajích chodí, aby se předešlo problémům a mrzení.
@@ -56,7 +60,7 @@ V cyklu *Unova 2* navíc hráč, který je plně registrovaný na webu [pokemon.
 Odznak             | Stadion    | Od         | Speciální pravidlo
 -------------------|------------|------------|---------------------------------------------
 ![Basic Badge][1]  | Aspertia   | 12.2.2019  | *20-20-20* - balíček musí mít 20 Pokémonů, 20 Trainerů a 20 energií
-![Toxic Badge][2]  | Virbank    | 19.3.2019  | *Full House* - v balíčku musí být každý Pokémon, kterého chceš hrát, čtyřikrát (můžou to být různé verze, rozhoduje název karty, Prism Star ⟐ se tedy hrát nemohou)
+![Toxic Badge][2]  | Virbank    | 19.3.2019  | *Full House* - v balíčku musí být každý Pokémon, kterého chceš hrát, čtyřikrát (můžou to být různé verze, rozhoduje název karty, Prism Star 🞠 se tedy hrát nemohou)
 ![Insect Badge][3] | Castelia   | duben?     | 
 ![Bolt Badge][4]   | Nimbasa    | květen?    | 
 ![Quake Badge][5]  | Driftveil  |            | 
