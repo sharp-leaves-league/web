@@ -1,7 +1,7 @@
 ---
 
-_title: Oficiální Pokémon liga v Liberci
-description: Test
+title: Oficiální Pokémon liga v Liberci
+description: Chceš zi zahrát Pokémony? Chceš se to naučit? Stav se!
 
 ---
 
