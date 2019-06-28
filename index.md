@@ -35,9 +35,12 @@ Na oficiální turnaje se můžeš přihlásit kdykoliv, doporučujeme však př
 
 Nezapomeň, že všechny oficiální turnaje mají omezení na konkrétní formát a jsou na nich *povinné decklisty* (seznam karet tvého balíčku). Na většinu turnajů je také povinná registrace, pokud se chceš zúčastnit některého turnaje (mimo úterní), mrkni na Facebook nebo pošli email na <liberec@pokemontcg.cz>.
 
-* 23.3.2019 10:00 [*Březnový League Challenge*](https://www.facebook.com/events/291704648176907/), formát Standard, vstupné 30 Kč
-* 6.4.2019 10:00 [*Sun & Moon—Team Up League Cup* a *Dubnový League Challenge*](https://www.facebook.com/events/153420155575292/), formát Standard, vstupné 200 Kč (pouze Challenge za 30 Kč)
-* v druhé polovině dubna očekáváme *Sun & Moon—Unbroken Bonds Prerelease*
+20.7. Prerelease Unified Minds + League Challenge
+3.8. League Cup + League Challenge
+
+
+* 20.7.2019 10:00 [*Prerelease Unified Minds* a *Červencový League Challenge*](https://www.facebook.com/events/727540914342565/), vstupné 700 Kč (100 karet, pouze Challenge za 30 Kč), Challenge formát Standard
+* 3.8.2019 10:00 [*Sun & Moon—Unbroken Bonds League Cup* a *Srpnový League Challenge*](https://www.facebook.com/events/337672256901659/), vstupné 200 Kč (pouze Challenge za 30 Kč), formát Standard
 
 ## Stadionové zápasy
 
@@ -62,7 +65,7 @@ Odznak             | Stadion    | Od         | Speciální pravidlo
 ![Basic Badge][1]  | Aspertia   | 12.2.2019  | *20-20-20* - balíček musí mít 20 Pokémonů, 20 Trainerů a 20 energií
 ![Toxic Badge][2]  | Virbank    | 19.3.2019  | *Full House* - v balíčku musí být každý Pokémon, kterého chceš hrát, čtyřikrát (můžou to být různé verze, rozhoduje název karty, Prism Star 🞠 Pokémoni se tedy hrát nemohou)
 ![Insect Badge][3] | Castelia   | 30.4.2019  | *Special Forces* - v balíčku nesmí být žádné Basic energie
-![Bolt Badge][4]   | Nimbasa    | květen?    | 
+![Bolt Badge][4]   | Nimbasa    |            | 
 ![Quake Badge][5]  | Driftveil  |            | 
 ![Jet Badge][6]    | Mistralton |            | 
 ![Legend Badge][7] | Opelucid   |            | 
