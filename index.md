@@ -35,10 +35,6 @@ Na oficiální turnaje se můžeš přihlásit kdykoliv, doporučujeme však př
 
 Nezapomeň, že všechny oficiální turnaje mají omezení na konkrétní formát a jsou na nich *povinné decklisty* (seznam karet tvého balíčku). Na většinu turnajů je také povinná registrace, pokud se chceš zúčastnit některého turnaje (mimo úterní), mrkni na Facebook nebo pošli email na <liberec@pokemontcg.cz>.
 
-20.7. Prerelease Unified Minds + League Challenge
-3.8. League Cup + League Challenge
-
-
 * 20.7.2019 10:00 [*Prerelease Unified Minds* a *Červencový League Challenge*](https://www.facebook.com/events/727540914342565/), vstupné 700 Kč (100 karet, pouze Challenge za 30 Kč), Challenge formát Standard
 * 3.8.2019 10:00 [*Sun & Moon—Unbroken Bonds League Cup* a *Srpnový League Challenge*](https://www.facebook.com/events/337672256901659/), vstupné 200 Kč (pouze Challenge za 30 Kč), formát Standard
 
